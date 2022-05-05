@@ -12,7 +12,7 @@
 
     """,
     'website': 'https://www.information-systems.ro',
-    'depends': ['base'],
+    'depends': ['base', 'contacts'],
     'data': [
         'views/res_partner_views.xml',
     ],

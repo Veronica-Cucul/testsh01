@@ -4,7 +4,7 @@
 {
     'name': 'Partner Note',
     'author': 'SC BISSTECH SRL',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Base',
     'sequence': 20,
     'summary': '',
